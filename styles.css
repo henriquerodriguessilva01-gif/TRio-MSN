@@ -1,0 +1,60 @@
+body{
+    color: blue;
+    background: rgb(0, 0, 0);
+
+    margin: 0px;
+
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+
+    border-bottom: solid 2px rgb(5, 141, 5);
+
+    padding: 20px;
+
+    font-size: 30px;
+}
+
+.chamada{
+background-color: red (243, 113, 141);
+padding-bottom: 50px;
+padding-top: 50px;
+
+display: flex;
+
+justify-content: center;
+
+}
+
+.chamada-texto{
+
+    margin-right: 5%;
+
+}
+   
+h1{
+    font-size: 30px;
+}
+
+img{
+
+height: 200px;
+
+}
+
+.categoria-fundamentos{
+
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.fundamentos{
+
+padding-left: 20px;
+padding-right: 20px;
+
+
+}
+
